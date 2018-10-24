@@ -6,6 +6,7 @@
 package bankaccountnumberconverter.utils;
 
 import bankaccountnumberconverter.Account;
+import bankaccountnumberconverter.Account;
 import bankaccountnumberconverter.utils.ValidateBank;
 
 /**
